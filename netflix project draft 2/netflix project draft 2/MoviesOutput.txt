@@ -1,0 +1,15 @@
+Movie name is Aladdin
+Year of movie Aladdin is 2019
+Movie genre is thriller
+ID: 333
+
+Movie name is Barbie
+Year of movie Barbie is 2001
+Movie genre is drama
+ID: 111
+
+Movie name is Interstellar
+Year of movie Interstellar is 2014
+Movie genre is adventure
+ID: 222
+
